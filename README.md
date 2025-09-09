@@ -1,66 +1,39 @@
-## Olá Sou o João Pedro👋
+<h3 align="center">
+  FullStack Developer
+</h3>
 
+<div align='center'>
 
-**`Desenvolvedor FullStack`**
+<div align="center">  
+  <a href="https://github.com/JoaoPedro4002">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoPedro4002&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-LkTecc&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
 
-Me chamo João Pedro, tenho 19 anos e sou natural de São Paulo. cursando Ciência da computação na Universidade Cruzeiro do Sul. Sou apaixonado por tecnologia desde pequeno. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-<p align="left">
-    </a> 
-    <a href="https://github.com/JoaoPedro4002?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JoaoPedro4002?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/JoaoPedro4002?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JoaoPedro4002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+</div>
 
----
+<img width="100%" height="8px"/>
 
-### 🤖 Linguagens e Tecnologias
+<div><br />
 
-**`Em Desenvolvimento`**
+<p><strong>Sobre mim</strong></p>
 
-No atual momente estou estudando para desenvolver meu conhecimento em linguagens.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é João Pedro,  e estou cursando Ciência da Computação <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo atual é me tornar um  Desenvolvedor <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Sempre a procura de uma melhora .<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Sempre tento ser uma pessoa educada e respeitosa, e adoro interagir com novas pessoas e compartilhar minha história. <br />
 
-<br/>
+## &nbsp;Minhas Stacks
 
-### 📊 Estatísticas
+<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,tailwind,git,github,figma&theme=dark" />
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoPedro4002&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+#
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro4002&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <p><strong>Entre em contato comigo</strong></p>
 
-
-
-
-
- 
-## 📬 **Entre em Contato!**
-📩 **Email:** portoj100@gmail.com
-💼 **LinkedIn:** https://l1nk.dev/xVSSq
-
-
-</p>
-
-
+<div align="left">
+  <a href="www.linkedin.com/in/joão-porto-4002" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+</div>
 
